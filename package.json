@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "normalize.css": "^8.0.1",
+    "stylelint-config-airbnb": "^0.0.0"
+  }
+}
